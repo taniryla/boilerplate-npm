@@ -1,6 +1,10 @@
 {
     "name": "fcc-learn-npm-package-json",
     "author": "ryland taniguchi",
+    "description": "A project that does something awesome",
+    "keywords": ["delicious", "freecodecamp", "fire"],
+    "license": "MIT",
+    "version": "1.2.0",
     "dependencies": {
         "express": "^4.14.0"
     },
